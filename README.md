@@ -48,7 +48,6 @@ public class Main {
                 System.out.println("Kalan hakkı : " + (5 - right));
             }
         }
-
         if (!isWin) {
             System.out.println("Kaybettiniz ! ");
             if (!isWrong) {
